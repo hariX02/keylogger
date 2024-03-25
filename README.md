@@ -9,3 +9,24 @@ This repository contains the code and documentation for my cybersecurity capston
 - User-friendly interface for configuration and interaction
 - Anomaly detection algorithms for identifying suspicious behavior
 - Compatibility with various platforms and operating systems
+
+To run this application , follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/hariX02/keylogger.git
+   cd keylogger
+   ```
+
+2. Install the required Python libraries:
+
+   ```bash
+   pip install Pynput
+   ```
+
+3. Run the keylogger application:
+
+   ```bash
+   python keylogger.py
+  
